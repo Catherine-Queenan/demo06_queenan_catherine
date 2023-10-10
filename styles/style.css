@@ -1,1 +1,39 @@
 
+/* Colours: 
+*non-photo-blue #73d2deff
+*coral: #ff784fff
+*tropical-indigo: #7c77b9ff
+*naples-yellow: #ffd670ff
+*reseda-green: #657153ff
+*/
+.orange {
+    background-color: #ff784fff;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #7c77b9ff;
+}
+
+.btn-info {
+    color: #7c77b9ff;
+    background-color: #ff784fff;
+    border-color: #657153ff;
+}
+
+.btn-primary {
+    color:#ffd670ff;
+    font-size: 150%;
+    background-color: #ff784fff;
+    border-color: #657153ff;
+
+}
+
+body {
+    background-color: #ffd670ff
+}
+
+.navbar-brand {
+    font-family: 'Merienda', cursive;
+    font-size: 2.25rem;
+}
+
